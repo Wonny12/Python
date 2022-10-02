@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''월 4회 스터디 -> 3번 온라인 1번 오프라인
 오프라인 모임 날짜를 정해주는 프로그램을 작성
 
@@ -12,3 +13,9 @@ offline_study_date = (int(randint(4,28)))
 print("오프라인 스터디 모임 날짜는 매월", offline_study_date,"일로 선정 되었습니다")
 
 
+=======
+from random import *
+offline_study_date = (int(randint(4,28)))
+
+print("Offline study date will be ", offline_study_date)
+>>>>>>> 7d796aab9bca6ca9a90cafca6980e3329d882c68
